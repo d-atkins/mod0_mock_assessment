@@ -1,4 +1,4 @@
-Dog
+Class: Dog
 
 Attributes:
 fur_length (int)
@@ -9,6 +9,6 @@ fullness (int)
 
 Methods:
 get_age (calculates age using birth_year)
-feed (adds to fullness and weight)
-water (decreases thirst)
-groom (decreases fur_length)
+feed (sets fullness to 100 and adds 1 to weight)
+water (sets thirst to 0)
+walk (subtracts 1 from weight)
