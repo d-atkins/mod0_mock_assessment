@@ -1,0 +1,26 @@
+Making a Sandwich:
+
+1. Pick a kind of sandwich
+  1.1 Research sandwiches
+    1.1.1 Google "delicious sandwiches"
+  1.2 Recall past sandwiches
+2. Gather ingredients
+  2.1 Get bread
+    2.1.1 Check pantry for options
+  2.2 Get vegetables
+    2.2.1 Cut vegetables
+      2.2.1.1 Chop lettuce
+      2.2.1.2 Slice tomatoes
+      2.2.1.3 Slice onions
+  2.3 Get meat
+    2.3.1 Check fridge for options
+  2.4 Get sauce
+    2.4.1 Check fridge for options
+  2.5 Get cheese
+    2.5.1 Check fridge for options
+3. Assemble sandwiches
+  3.1 Place one slice of bread down
+    3.1.1 Add meat
+    3.1.2 Add cheese
+    3.1.3 Add vegetables
+  3.2 Close sandwich with second slice of bread
