@@ -1,0 +1,14 @@
+Dog
+
+Attributes:
+fur_length (int)
+weight (int)
+birth_year (int)
+thirst (int)
+fullness (int)
+
+Methods:
+get_age (calculates age using birth_year)
+feed (adds to fullness and weight)
+water (decreases thirst)
+groom (decreases fur_length)
