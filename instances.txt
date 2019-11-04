@@ -1,0 +1,29 @@
+Object: Rover
+
+Attributes:
+fur_length (5)
+weight (20)
+birth_year (2010)
+thirst (67)
+fullness (15)
+
+Methods:
+get_age (2019 - 2010 = 9)
+feed (fullness = 100; weight = 21)
+water (thirst = 0)
+walk (weight = 20)
+
+Object: Spot
+
+Attributes:
+fur_length (37)
+weight (60)
+birth_year (2000)
+thirst (16)
+fullness (0)
+
+Methods:
+get_age (2019 - 2000 = 19)
+feed (fullness = 100; weight = 61)
+water (thirst = 0)
+walk (weight = 60)
